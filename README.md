@@ -1,7 +1,7 @@
-<p><img src="imagem" align="left" height="150px" width="150px">
-    <h1># Título</h1> 
+<p><img src="https://user-images.githubusercontent.com/63436406/143872342-f41078e8-941f-4fdf-9fa5-e780d28b6e80.png" align="left" height="150px" width="150px">
+    <h1># Recriando a página inicial do Instagram</h1> 
     <p align="justify">
-    Você digitar texto aqui.
+    Nesse projeto você terá o desafio de reconstruir a página de login do Instagram. Para isso, é recomendado o uso de CSS com Flexbox, uma das abordagens de posicionamento de elementos mais utilizadas quando se trata de responsividade.
     </p>
 </p>      
 
